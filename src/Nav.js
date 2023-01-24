@@ -2,20 +2,18 @@ import React from 'react'
 import './Nav.css'
 
 function Nav() {
-    return <div className='nav'>
+    return <div className='nav nav_black'>
         <div className="nav_content">
             <img
             className='nav_logo'
-            src="https://www.edigitalagency.com.au/wp-content/uploads/Netflix-logo-red-black-png.png"
+            src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png"
             alt="" />
         
         <img
             className='nav_avatar'
-            src='https://e7.pngegg.com/pngimages/76/633/png-clipart-mr-peanutbutter-desktop-animation-bojack-horseman-season-4-netflix-animation-horse-mammal-thumbnail.png'
+            src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzqHCSZxVq2JzIW-V6KGNAPuoWrNie1-wZ7oiQqrsL1lHdkybNEXRpJ-1YfxWqOIA5j6g&usqp=CAU'
             alt="" />
         </div>
-        
-      <h2>This is a Nav</h2>
   </div>
   
 }

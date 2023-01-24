@@ -7,7 +7,7 @@ function Banner() {
             className='banner'
             style={{
                 backgroundSize: "cover",
-                backgroundImage: `url("https://i.imgur.com/e1hLQ2m.png")`,
+                backgroundImage: `url('https://upload.wikimedia.org/wikipedia/commons/c/cd/Black_flag.svg')`,
                 backgroundPosition: "center center",
             }}>
             
@@ -17,7 +17,7 @@ function Banner() {
                     <button className='banner_button'>Play</button>
                     <button className='banner_button'>My List</button>
                 </div>
-                <h1 className="banner_description">This is a test</h1>
+                <h1 className="banner_description">This is a test description.</h1>
             </div>
 
             <div className="banner--fadeBottom" />

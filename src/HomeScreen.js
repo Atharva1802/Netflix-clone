@@ -8,7 +8,7 @@ function HomeScreen() {
         {/* Nav */}
         <Nav />
 
-      
+        
       {/* {Banner} */}
 
 

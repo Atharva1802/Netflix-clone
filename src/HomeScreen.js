@@ -11,7 +11,7 @@ function HomeScreen() {
 
         
         {/* {Banner} */}
-        <Banner /> 
+        <Banner />  
         
 
 

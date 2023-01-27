@@ -1,7 +1,7 @@
 import React from 'react'
 import './HomeScreen.css'
-import Nav from './Nav'
-import Banner from './Banner'
+import Nav from './NavigationBar/Nav'
+import Banner from './Banner/Banner'
 
 function HomeScreen() {
     return <div className='homeScreen'>
@@ -12,7 +12,6 @@ function HomeScreen() {
         
         {/* {Banner} */}
         <Banner />  
-        
 
 
       {/* Rows */}

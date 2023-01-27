@@ -29,7 +29,22 @@ function Banner() {
                     This is a test decription
                     This is a test decription
                     This is a test decription
-                    This is a test decription`, 200)}</h1>
+                    This is a test decription
+                    This is a test decription
+                    This is a test decription
+                    This is a test decription
+                    This is a test decription
+                    This is a test decription
+                    This is a test decription
+                    This is a test decription
+                    This is a test decription
+                    This is a test decription
+                    This is a test decription
+                    This is a test decription
+                    This is a test decription
+                
+                    This is a test decription`, 200)}
+                </h1>
             </div>
 
             <div className="banner--fadeBottom" />

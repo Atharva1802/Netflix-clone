@@ -22,11 +22,11 @@
     transition: 450ms;
 }
 
-.row_posterLarge {
+.row__posterLarge {
     max-height: 250px   ;
 }
 
-.row_poster:hover { 
-    transform: scale(1.08);
+.row__poster:hover { 
+    transform: scale(1.09);
     opacity: 1;
 }

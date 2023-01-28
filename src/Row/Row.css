@@ -14,12 +14,16 @@
     display: none;
 }
 
-.row_poster {
+.row__poster {
     max-height: 100px;
     object-fit: contain;
     margin-right: 10px;
     width: 100%;
     transition: 450ms;
+}
+
+.row_posterLarge {
+    max-height: 250px   ;
 }
 
 .row_poster:hover { 
